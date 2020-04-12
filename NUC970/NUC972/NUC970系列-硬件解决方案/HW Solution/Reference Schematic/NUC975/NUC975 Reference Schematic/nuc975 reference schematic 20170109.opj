@@ -1,0 +1,45 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\nuc975 reference schematic 20170109.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\nuc975 reference schematic 20170109.dsn")
+      (Path "Design Resources" ".\nuc975 reference schematic 20170109.dsn"
+         "SCHEMATIC00")
+      (Path "Design Resources" ".\nuc975 reference schematic 20170109.dsn"
+         "SCHEMATIC01")
+      (Path "Design Resources" ".\nuc975 reference schematic 20170109.dsn"
+         "SCHEMATIC02")
+      (Path "Design Resources" ".\nuc975 reference schematic 20170109.dsn"
+         "SCHEMATIC03")
+      (Path "Design Resources" ".\nuc975 reference schematic 20170109.dsn"
+         "SCHEMATIC04")
+      (Path "Design Resources" ".\nuc975 reference schematic 20170109.dsn"
+         "SCHEMATIC05")
+      (Path "Design Resources" ".\nuc975 reference schematic 20170109.dsn"
+         "SCHEMATIC06")
+      (Path "Design Resources" ".\nuc975 reference schematic 20170109.dsn"
+         "SCHEMATIC07")
+      (Path "Design Resources" ".\nuc975 reference schematic 20170109.dsn"
+         "SCHEMATIC08")
+      (Path "Design Resources" ".\nuc975 reference schematic 20170109.dsn"
+         "SCHEMATIC09")
+      (Select "Design Resources" ".\nuc975 reference schematic 20170109.dsn"
+         "SCHEMATIC09" "USB"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 0 200 0 423"))
+      (Tab 0))))
